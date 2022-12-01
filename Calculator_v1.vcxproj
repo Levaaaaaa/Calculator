@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="AllInclude.h" />
     <ClInclude Include="ArithmFun.h" />
+    <ClInclude Include="ExpressionsClass.h" />
     <ClInclude Include="LogicFun.h" />
     <ClInclude Include="UI.h" />
   </ItemGroup>

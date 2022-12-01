@@ -3,6 +3,10 @@
 #include <iostream>
 #include <vector>
 #include <functional>
+#include <map>
+#include <stack>
+#include <sstream>
+
 
 template <typename T>
 bool isElementInVector(std::vector<T> v, T e)

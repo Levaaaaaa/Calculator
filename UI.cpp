@@ -1,4 +1,5 @@
 #include "UI.h"
+#include "ExpressionsClass.h"
 
 void UI() {
 
@@ -16,18 +17,21 @@ void UI() {
 		case 2:
 			SelectBinOperation();
 			break;
+		case 3:
+			Expressions expr;
+			expr.IOExpr();
 		}
 	}
 }
 
 int SelectTypeOfOperation() 
 {
-	std::vector<int> variableTypes = { 0,1,2 };
+	std::vector<int> variableTypes = { 0,1,2, 3 };
 
 	int typeOfOperation = -1;
 
 	do {
-		std::cout << "Select the type:\n\t1. Unary\n\t2. Binary\n\t0. Exit\n";
+		std::cout << "Select the type:\n\t1. Unary\n\t2. Binary\n\t3. Strings\n\t0. Exit\n";
 		std::cin >> typeOfOperation;
 	} while (!isElementInVector(variableTypes, typeOfOperation));
 

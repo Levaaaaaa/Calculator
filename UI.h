@@ -3,7 +3,6 @@
 #include "ArithmFun.h"
 #include "LogicFun.h"
 
-
 int SelectSpecies();
 
 void SelectUnOperation();
