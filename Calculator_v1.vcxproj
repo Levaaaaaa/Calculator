@@ -141,12 +141,16 @@
   <ItemGroup>
     <ClCompile Include="ArithmFun.cpp" />
     <ClCompile Include="Calculator_v1.cpp" />
+    <ClCompile Include="ExpressionsClass.cpp" />
+    <ClCompile Include="HardMath.cpp" />
     <ClCompile Include="LogicFun.cpp" />
     <ClCompile Include="UI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AllInclude.h" />
     <ClInclude Include="ArithmFun.h" />
+    <ClInclude Include="ExpressionsClass.h" />
+    <ClInclude Include="HardMath.h" />
     <ClInclude Include="LogicFun.h" />
     <ClInclude Include="UI.h" />
   </ItemGroup>

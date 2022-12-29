@@ -1,8 +1,15 @@
 #pragma once
 
+#define M_PI 3.14159265358979323846
 #include <iostream>
 #include <vector>
 #include <functional>
+#include <map>
+#include <stack>
+#include <sstream>
+
+#include "HardMath.h"
+
 
 template <typename T>
 bool isElementInVector(std::vector<T> v, T e)
