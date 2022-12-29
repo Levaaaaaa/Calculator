@@ -150,7 +150,10 @@
     <ClInclude Include="AllInclude.h" />
     <ClInclude Include="ArithmFun.h" />
     <ClInclude Include="ExpressionsClass.h" />
+<<<<<<< HEAD
     <ClInclude Include="HardMath.h" />
+=======
+>>>>>>> 4b86d48d7366c65aadb0f6eea5655b9ddfd1e98f
     <ClInclude Include="LogicFun.h" />
     <ClInclude Include="UI.h" />
   </ItemGroup>

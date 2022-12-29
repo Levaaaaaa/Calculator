@@ -50,8 +50,11 @@
     <ClInclude Include="ExpressionsClass.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="HardMath.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+=======
+>>>>>>> 4b86d48d7366c65aadb0f6eea5655b9ddfd1e98f
   </ItemGroup>
 </Project>

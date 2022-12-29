@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 ﻿  HardMath.cpp
 D:\Leva\BSU\OiMP\Tasks\Calculator\Calculator_v1\HardMath.cpp(78,20): warning C4101: i: неиспользованная локальная переменная
   Calculator_v1.vcxproj -> D:\Leva\BSU\OiMP\Tasks\Calculator\Calculator_v1\Debug\Calculator_v1.exe
+=======
+﻿  UI.cpp
+D:\Leva\BSU\ОиМП\Tasks\Calculator\Calculator_v1\UI.cpp(57,6): warning C4101: operation: неиспользованная локальная переменная
+D:\Leva\BSU\ОиМП\Tasks\Calculator\Calculator_v1\UI.cpp(80,6): warning C4101: operation: неиспользованная локальная переменная
+D:\Leva\BSU\ОиМП\Tasks\Calculator\Calculator_v1\ExpressionsClass.h(134): warning C4715: Expressions::execution: значение возвращается не при всех путях выполнения
+  Calculator_v1.vcxproj -> D:\Leva\BSU\ОиМП\Tasks\Calculator\Calculator_v1\Debug\Calculator_v1.exe
+>>>>>>> 4b86d48d7366c65aadb0f6eea5655b9ddfd1e98f
